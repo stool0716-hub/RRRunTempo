@@ -6,6 +6,28 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Login.unity
+    guid: e4e944a83312ea74abf636f63b78b107
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: f7da705339918a64f837c9427adc46ca
+  - enabled: 1
+    path: Assets/Scenes/Gacha.unity
+    guid: 41492a07ae963d047b25d99b39f99569
+  - enabled: 1
+    path: Assets/Scenes/Cards.unity
+    guid: 1f5fba6666fe67b4381afd3d213460c3
+  - enabled: 1
+    path: Assets/Scenes/Store.unity
+    guid: 1e01a71b0e49ab942901867149adac01
+  - enabled: 1
+    path: Assets/Scenes/MiniGame.unity
+    guid: 0f4b7a108d782c14f8635f899f235816
+  - enabled: 1
+    path: Assets/Scenes/MiniGameStage.unity
+    guid: b18135513b9807143a9be7cab9db9cd1
+  - enabled: 1
+    path: Assets/Scenes/MiniGameCharacter.unity
+    guid: c66519bb861b15f4ab972d9dcf732c0b
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
