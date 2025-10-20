@@ -5614,7 +5614,7 @@ MonoBehaviour:
       m_Calls: []
   segments: 64
   radius: 240
-  thickness: 10
+  thickness: 5
 --- !u!114 &2308636754691981733
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5629,7 +5629,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ring: {fileID: 1274940327662933797}
   growSpeed: 1300
-  thinSpeed: 5
+  thinSpeed: 30
   startRadius: 50
   startThickness: 20
 --- !u!1 &7818558268464739310
