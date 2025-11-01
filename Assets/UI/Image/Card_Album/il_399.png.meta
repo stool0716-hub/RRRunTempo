@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 63a94581ce2334a4c96dc8e015dd2f89
+guid: c31dae997bfc9dd4dad22335988727a2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -775435252595767324
-    second: loginui_bg_01_0
+      213: 7600915554089325505
+    second: il_399_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,9 +40,9 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: loginui_bg_01_0
+      name: il_399_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 0
-        width: 613
-        height: 40
+        width: 1435
+        height: 810
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e7c6b60fb91d35f0800000000000000
-      internalID: -775435252595767324
+      spriteID: 1c35c31dc60eb7960800000000000000
+      internalID: 7600915554089325505
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      loginui_bg_01_0: -775435252595767324
+      il_399_0: 7600915554089325505
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

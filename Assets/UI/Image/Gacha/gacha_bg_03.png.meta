@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 63a94581ce2334a4c96dc8e015dd2f89
+guid: 1562757ee4468604ebb6cc507f4026ab
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -775435252595767324
-    second: loginui_bg_01_0
+      213: -7462298283790293821
+    second: gacha_bg_03_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,9 +40,9 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -52,7 +52,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 150, y: 0, z: 20, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: loginui_bg_01_0
+      name: gacha_bg_03_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 613
-        height: 40
+        width: 180
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e7c6b60fb91d35f0800000000000000
-      internalID: -775435252595767324
+      spriteID: 3c42ca27f37907890800000000000000
+      internalID: -7462298283790293821
       vertices: []
       indices: 
       edges: []
@@ -126,7 +126,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      loginui_bg_01_0: -775435252595767324
+      gacha_bg_03_0: -7462298283790293821
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
