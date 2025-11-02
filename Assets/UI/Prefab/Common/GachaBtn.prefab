@@ -77,13 +77,13 @@ MonoBehaviour:
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
-    m_NormalTrigger: Normal
+    m_NormalTrigger: 
     m_HighlightedTrigger: 
     m_PressedTrigger: Pressed
     m_SelectedTrigger: 
     m_DisabledTrigger: 
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 0}
+  m_TargetGraphic: {fileID: 1604874417417179850}
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
