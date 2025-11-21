@@ -239,6 +239,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2030141072}
     m_Modifications:
+    - target: {fileID: 321626895944080485, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 321626895944080485, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 321626895944080485, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 321626895944080485, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 321626895944080485, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 759592294342425384, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -285,6 +305,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3037754241162349872, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
       propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6167562943403274475, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
+      propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6429358970884487729, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
@@ -403,6 +427,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8066435903919775608, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8066435903919775608, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8066435903919775608, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8066435903919775608, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8066435903919775608, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -410,7 +454,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
 --- !u!224 &846833615 stripped
 RectTransform:
-  m_CorrespondingSourceObject: {fileID: 7087700793272312722, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
+  m_CorrespondingSourceObject: {fileID: 7381794558321213214, guid: ed2dab1b4f06d7a42bd568ff3d829824, type: 3}
   m_PrefabInstance: {fileID: 846833614}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1604307897
@@ -582,7 +626,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0

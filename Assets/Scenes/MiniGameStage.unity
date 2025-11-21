@@ -383,6 +383,26 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 3583575049599085107, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583575049599085107, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583575049599085107, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583575049599085107, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583575049599085107, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3774193233896385168, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 0
@@ -535,6 +555,30 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6502199264094153006, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6502199264094153006, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6502199264094153006, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6502199264094153006, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6502199264094153006, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942961426047764157, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7515918534599087660, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -586,7 +630,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
 --- !u!224 &2017840393 stripped
 RectTransform:
-  m_CorrespondingSourceObject: {fileID: 5928249969633664722, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
+  m_CorrespondingSourceObject: {fileID: 6176469079449765908, guid: 9881615187c43fa46b9f2933df9adad9, type: 3}
   m_PrefabInstance: {fileID: 2017840392}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &2030141068
@@ -666,7 +710,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0

@@ -14,13 +14,17 @@ public class MineMenu : MonoBehaviour
 	{
 		SceneManager.LoadScene("Gacha");
 	}
-	public void Cards()
+	public void Collection()
 	{
-		SceneManager.LoadScene("Cards");
+		SceneManager.LoadScene("Collection");
 	}
-	public void Store()
+	public void Shop()
 	{
-		SceneManager.LoadScene("Store");
+		SceneManager.LoadScene("Shop");
+	}
+	public void Member()
+	{
+		SceneManager.LoadScene("Member");
 	}
 	public void MiniGame()
 	{
