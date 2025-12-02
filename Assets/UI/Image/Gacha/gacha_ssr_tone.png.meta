@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: ede8e660c4ecbcd45a854758aa827efb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5207749621692615484
+    second: gacha_ssr_tone_0
+  - first:
+      213: 4900189432351288386
+    second: gacha_ssr_tone_1
+  - first:
+      213: 7280239351014103302
+    second: gacha_ssr_tone_2
+  - first:
+      213: -4729069704197020012
+    second: gacha_ssr_tone_3
+  - first:
+      213: -6478603017185941016
+    second: gacha_ssr_tone_4
+  - first:
+      213: 4227448450523317906
+    second: gacha_ssr_tone_5
+  - first:
+      213: -2853089527388131379
+    second: gacha_ssr_tone_6
+  - first:
+      213: -1713338118340133888
+    second: gacha_ssr_tone_7
+  - first:
+      213: 7224477907172882951
+    second: gacha_ssr_tone_8
+  - first:
+      213: -132282197134599049
+    second: gacha_ssr_tone_9
+  - first:
+      213: 3473359425596890293
+    second: gacha_ssr_tone_10
+  - first:
+      213: -5742086297340603454
+    second: gacha_ssr_tone_11
+  - first:
+      213: -5750573349488275015
+    second: gacha_ssr_tone_12
+  - first:
+      213: 2788993431714605106
+    second: gacha_ssr_tone_13
+  - first:
+      213: -4716072162687871782
+    second: gacha_ssr_tone_14
+  - first:
+      213: -2351853009764064349
+    second: gacha_ssr_tone_15
+  - first:
+      213: -5813215558100186243
+    second: gacha_ssr_tone_16
+  - first:
+      213: -5041116378120808866
+    second: gacha_ssr_tone_17
+  - first:
+      213: 4796705847240205499
+    second: gacha_ssr_tone_18
+  - first:
+      213: -6069031627321203535
+    second: gacha_ssr_tone_19
+  - first:
+      213: 930579820585710199
+    second: gacha_ssr_tone_20
+  - first:
+      213: -3900835600547589701
+    second: gacha_ssr_tone_21
+  - first:
+      213: -4225101398286731468
+    second: gacha_ssr_tone_22
+  - first:
+      213: -8323632705791998504
+    second: gacha_ssr_tone_23
+  - first:
+      213: 6012259372199818421
+    second: gacha_ssr_tone_24
+  - first:
+      213: -305074885726132377
+    second: gacha_ssr_tone_25
+  - first:
+      213: -8714369713028089707
+    second: gacha_ssr_tone_26
+  - first:
+      213: -1877639553767936660
+    second: gacha_ssr_tone_27
+  - first:
+      213: -1662862918070789332
+    second: gacha_ssr_tone_28
+  - first:
+      213: -3752752400023555103
+    second: gacha_ssr_tone_29
+  - first:
+      213: 7105861339896582370
+    second: gacha_ssr_tone_30
+  - first:
+      213: 7669312061493440599
+    second: gacha_ssr_tone_31
+  - first:
+      213: -2031689609765261054
+    second: gacha_ssr_tone_32
+  - first:
+      213: 8070678100612050365
+    second: gacha_ssr_tone_33
+  - first:
+      213: 8729465464270481287
+    second: gacha_ssr_tone_34
+  - first:
+      213: -2740021721042669418
+    second: gacha_ssr_tone_35
+  - first:
+      213: -6857542315913257801
+    second: gacha_ssr_tone_36
+  - first:
+      213: 8096244703963332774
+    second: gacha_ssr_tone_37
+  - first:
+      213: -2303148843235049269
+    second: gacha_ssr_tone_38
+  - first:
+      213: 5278573653735554478
+    second: gacha_ssr_tone_39
+  - first:
+      213: -8616240891092630324
+    second: gacha_ssr_tone_40
+  - first:
+      213: 2878440888934865043
+    second: gacha_ssr_tone_41
+  - first:
+      213: 4691599940784230694
+    second: gacha_ssr_tone_42
+  - first:
+      213: -5372045236363595336
+    second: gacha_ssr_tone_43
+  - first:
+      213: 1747638892223994074
+    second: gacha_ssr_tone_44
+  - first:
+      213: -4156007753664749551
+    second: gacha_ssr_tone_45
+  - first:
+      213: 4275121920074432801
+    second: gacha_ssr_tone_46
+  - first:
+      213: -5858327521710860113
+    second: gacha_ssr_tone_47
+  - first:
+      213: 8633186164326023269
+    second: gacha_ssr_tone_48
+  - first:
+      213: -2828441063488387866
+    second: gacha_ssr_tone_49
+  - first:
+      213: 2117312777429366433
+    second: gacha_ssr_tone_50
+  - first:
+      213: 1132941186595619885
+    second: gacha_ssr_tone_51
+  - first:
+      213: -8255911023060508954
+    second: gacha_ssr_tone_52
+  - first:
+      213: -7183755025544011805
+    second: gacha_ssr_tone_53
+  - first:
+      213: 3835550965435211472
+    second: gacha_ssr_tone_54
+  - first:
+      213: -4162821153454163705
+    second: gacha_ssr_tone_55
+  - first:
+      213: 1812970544620429943
+    second: gacha_ssr_tone_56
+  - first:
+      213: -4116445667470876904
+    second: gacha_ssr_tone_57
+  - first:
+      213: 4680822821748424568
+    second: gacha_ssr_tone_58
+  - first:
+      213: 104485694775066818
+    second: gacha_ssr_tone_59
+  - first:
+      213: -4640263704649553750
+    second: gacha_ssr_tone_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gacha_ssr_tone_0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 470
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bc92860b4a54840800000000000000
+      internalID: 5207749621692615484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 480
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ceb6f8358f00440800000000000000
+      internalID: 4900189432351288386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 480
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609140d0e1b980560800000000000000
+      internalID: 7280239351014103302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 480
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4966643e828fe5eb0800000000000000
+      internalID: -4729069704197020012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 480
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9abd781e06716a0800000000000000
+      internalID: -6478603017185941016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 480
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296c7bfb7f9eaaa30800000000000000
+      internalID: 4227448450523317906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 480
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfa4afe03ac768d0800000000000000
+      internalID: -2853089527388131379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 470
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c333c1f000938e0800000000000000
+      internalID: -1713338118340133888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 470
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a72b03160824460800000000000000
+      internalID: 7224477907172882951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 469
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c1fa5ea0a0a2ef0800000000000000
+      internalID: -132282197134599049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 469
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc15f3bef9d33030800000000000000
+      internalID: 3473359425596890293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 469
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c310697fe20050b0800000000000000
+      internalID: -5742086297340603454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 469
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b15ce8a10cd130b0800000000000000
+      internalID: -5750573349488275015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 469
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2382f3adfbe74b620800000000000000
+      internalID: 2788993431714605106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 470
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad491e7da552d8eb0800000000000000
+      internalID: -4716072162687871782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 330
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a36415f52a8c5fd0800000000000000
+      internalID: -2351853009764064349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b0aa8ef3f435fa0800000000000000
+      internalID: -5813215558100186243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_17
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 330
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5694b2fc5b5a0ab0800000000000000
+      internalID: -5041116378120808866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4aac4dd82519240800000000000000
+      internalID: 4796705847240205499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_19
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4a8ead3e776cba0800000000000000
+      internalID: -6069031627321203535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77278299a651aec00800000000000000
+      internalID: 930579820585710199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_21
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1d92650b27dd9c0800000000000000
+      internalID: -3900835600547589701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 289
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437fc1fe9ac6d55c0800000000000000
+      internalID: -4225101398286731468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 289
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5c17297248c7c80800000000000000
+      internalID: -8323632705791998504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4bb717b06df6350800000000000000
+      internalID: 6012259372199818421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_25
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767a66ef10824cbf0800000000000000
+      internalID: -305074885726132377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 269
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598b98daae6501780800000000000000
+      internalID: -8714369713028089707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_27
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 269
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d607526c841f5e0800000000000000
+      internalID: -1877639553767936660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 260
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b983a7cf25ce8e0800000000000000
+      internalID: -1662862918070789332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_29
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 260
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3f99a339b8bebc0800000000000000
+      internalID: -3752752400023555103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 249
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e097bb7d371d9260800000000000000
+      internalID: 7105861339896582370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_31
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 249
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7507fe8afaede6a60800000000000000
+      internalID: 7669312061493440599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201f614701dfdc3e0800000000000000
+      internalID: -2031689609765261054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_33
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6183e8fec00070800000000000000
+      internalID: 8070678100612050365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 229
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787e1ecc69a452970800000000000000
+      internalID: 8729465464270481287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_35
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 229
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690b56013cc79f9d0800000000000000
+      internalID: -2740021721042669418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 220
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcd7c3b89d15d0a0800000000000000
+      internalID: -6857542315913257801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_37
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 220
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a04f5a99a3ab5070800000000000000
+      internalID: 8096244703963332774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 210
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc08f1664529900e0800000000000000
+      internalID: -2303148843235049269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_39
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 210
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadb4af55c2414940800000000000000
+      internalID: 5278573653735554478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc48a337f86fc6880800000000000000
+      internalID: -8616240891092630324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_41
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3981ce3ecb642f720800000000000000
+      internalID: 2878440888934865043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 190
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62110baf949eb1140800000000000000
+      internalID: 4691599940784230694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_43
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 190
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1f731e159a275b0800000000000000
+      internalID: -5372045236363595336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 171
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad81ba6205cd04810800000000000000
+      internalID: 1747638892223994074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_45
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 171
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1102b0fa7f4e256c0800000000000000
+      internalID: -4156007753664749551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121c5895cb8445b30800000000000000
+      internalID: 4275121920074432801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa89782682a03bea0800000000000000
+      internalID: -5858327521710860113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_48
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560487c631d3fc770800000000000000
+      internalID: 8633186164326023269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_49
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 30
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e485a6a6db5fb8d0800000000000000
+      internalID: -2828441063488387866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_50
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 30
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6b219c0c4326d10800000000000000
+      internalID: 2117312777429366433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_51
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 30
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d240172b10409bf00800000000000000
+      internalID: 1132941186595619885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_52
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee1f3d8aac1d6d80800000000000000
+      internalID: -8255911023060508954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_53
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef950d8ddc2e4c90800000000000000
+      internalID: -7183755025544011805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_54
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de1cac084d9a3530800000000000000
+      internalID: 3835550965435211472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_55
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709f1ec6730ba36c0800000000000000
+      internalID: -4162821153454163705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772e854da17f82910800000000000000
+      internalID: 1812970544620429943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_57
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fd33da9727fd6c0800000000000000
+      internalID: -4116445667470876904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_58
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f3bda6e8f95f040800000000000000
+      internalID: 4680822821748424568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_59
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c08d219f25337100800000000000000
+      internalID: 104485694775066818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_ssr_tone_60
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8a93ceeb87a9fb0800000000000000
+      internalID: -4640263704649553750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gacha_ssr_tone_0: 5207749621692615484
+      gacha_ssr_tone_1: 4900189432351288386
+      gacha_ssr_tone_10: 3473359425596890293
+      gacha_ssr_tone_11: -5742086297340603454
+      gacha_ssr_tone_12: -5750573349488275015
+      gacha_ssr_tone_13: 2788993431714605106
+      gacha_ssr_tone_14: -4716072162687871782
+      gacha_ssr_tone_15: -2351853009764064349
+      gacha_ssr_tone_16: -5813215558100186243
+      gacha_ssr_tone_17: -5041116378120808866
+      gacha_ssr_tone_18: 4796705847240205499
+      gacha_ssr_tone_19: -6069031627321203535
+      gacha_ssr_tone_2: 7280239351014103302
+      gacha_ssr_tone_20: 930579820585710199
+      gacha_ssr_tone_21: -3900835600547589701
+      gacha_ssr_tone_22: -4225101398286731468
+      gacha_ssr_tone_23: -8323632705791998504
+      gacha_ssr_tone_24: 6012259372199818421
+      gacha_ssr_tone_25: -305074885726132377
+      gacha_ssr_tone_26: -8714369713028089707
+      gacha_ssr_tone_27: -1877639553767936660
+      gacha_ssr_tone_28: -1662862918070789332
+      gacha_ssr_tone_29: -3752752400023555103
+      gacha_ssr_tone_3: -4729069704197020012
+      gacha_ssr_tone_30: 7105861339896582370
+      gacha_ssr_tone_31: 7669312061493440599
+      gacha_ssr_tone_32: -2031689609765261054
+      gacha_ssr_tone_33: 8070678100612050365
+      gacha_ssr_tone_34: 8729465464270481287
+      gacha_ssr_tone_35: -2740021721042669418
+      gacha_ssr_tone_36: -6857542315913257801
+      gacha_ssr_tone_37: 8096244703963332774
+      gacha_ssr_tone_38: -2303148843235049269
+      gacha_ssr_tone_39: 5278573653735554478
+      gacha_ssr_tone_4: -6478603017185941016
+      gacha_ssr_tone_40: -8616240891092630324
+      gacha_ssr_tone_41: 2878440888934865043
+      gacha_ssr_tone_42: 4691599940784230694
+      gacha_ssr_tone_43: -5372045236363595336
+      gacha_ssr_tone_44: 1747638892223994074
+      gacha_ssr_tone_45: -4156007753664749551
+      gacha_ssr_tone_46: 4275121920074432801
+      gacha_ssr_tone_47: -5858327521710860113
+      gacha_ssr_tone_48: 8633186164326023269
+      gacha_ssr_tone_49: -2828441063488387866
+      gacha_ssr_tone_5: 4227448450523317906
+      gacha_ssr_tone_50: 2117312777429366433
+      gacha_ssr_tone_51: 1132941186595619885
+      gacha_ssr_tone_52: -8255911023060508954
+      gacha_ssr_tone_53: -7183755025544011805
+      gacha_ssr_tone_54: 3835550965435211472
+      gacha_ssr_tone_55: -4162821153454163705
+      gacha_ssr_tone_56: 1812970544620429943
+      gacha_ssr_tone_57: -4116445667470876904
+      gacha_ssr_tone_58: 4680822821748424568
+      gacha_ssr_tone_59: 104485694775066818
+      gacha_ssr_tone_6: -2853089527388131379
+      gacha_ssr_tone_60: -4640263704649553750
+      gacha_ssr_tone_7: -1713338118340133888
+      gacha_ssr_tone_8: 7224477907172882951
+      gacha_ssr_tone_9: -132282197134599049
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
