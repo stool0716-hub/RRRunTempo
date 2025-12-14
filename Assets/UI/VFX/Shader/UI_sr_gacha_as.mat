@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: UI_sr_gacha
-  m_Shader: {fileID: -6465566751694194690, guid: 011bc363d118c5c4096d6b3be15c916e, type: 3}
+  m_Name: UI_sr_gacha_as
+  m_Shader: {fileID: -6465566751694194690, guid: d570f872a309ac84199208b8a5c5f67b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -33,8 +33,7 @@ Material:
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap:
-    RenderType: Transparent
+  stringTagMap: {}
   disabledShaderPasses: []
   m_LockedProperties: 
   m_SavedProperties:
@@ -123,7 +122,7 @@ Material:
     - _LeftRightSpeed: 1
     - _Metallic: 0
     - _Mode: 0
-    - _Move: 0.74
+    - _Move: 0.32
     - _MoveSlide: 1
     - _OcclusionStrength: 1
     - _Opacity: 0.5

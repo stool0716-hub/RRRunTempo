@@ -5828,7 +5828,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7644174733554794030, guid: 70199212bda969547a82e3bb6486d27a, type: 3}
       propertyPath: m_text
-      value: Robel
+      value: Roberu
       objectReference: {fileID: 0}
     - target: {fileID: 7644174733554794030, guid: 70199212bda969547a82e3bb6486d27a, type: 3}
       propertyPath: m_fontSize
