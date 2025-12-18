@@ -1354,6 +1354,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Comn_Black
       objectReference: {fileID: 0}
+    - target: {fileID: 6685337606139820195, guid: a7001aba5af67624290b8f87ea78f4af, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7127449175030855508, guid: a7001aba5af67624290b8f87ea78f4af, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0

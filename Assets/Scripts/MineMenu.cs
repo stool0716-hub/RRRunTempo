@@ -22,33 +22,25 @@ public class MineMenu : MonoBehaviour
 	{
 		SceneManager.LoadScene("Shop");
 	}
-	public void Member()
+	public void MiniGameStage()
 	{
-		SceneManager.LoadScene("Member");
+		SceneManager.LoadScene("MiniGameStage");
 	}
-	public void MiniGame()
+	public void MiniGameCharacter()
 	{
-		SceneManager.LoadScene("MiniGame");
-	}
-	public void MiniGStage()
-	{
-		SceneManager.LoadScene("Lobby");
+		SceneManager.LoadScene("MiniGameCharacter");
 	}
 	public void Stage_Easy()
 	{
-		SceneManager.LoadScene("Easy");
+		SceneManager.LoadScene("Stage_Easy");
 	}
 	public void Stage_Normal()
 	{
-		SceneManager.LoadScene("Normal");
+		SceneManager.LoadScene("Stage_Normal");
 	}
 	public void Stage_Hard()
 	{
-		SceneManager.LoadScene("Hard");
-	}
-	public void MiniGCharacter()
-	{
-		SceneManager.LoadScene("MiniGStage");
+		SceneManager.LoadScene("Stage_Hard");
 	}
 	public void Quit()
 	{
